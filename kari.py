@@ -26,6 +26,7 @@ persons = (
     Person("Dori", ("Levi",)),
     Person("Levi", ("Dori",)),
     Person("Anna", ("Ati",)),
+    Person("Ati", ("Anna",)),
     Person("Csabi", ()),
 )
 number_of_persons = len(persons)
